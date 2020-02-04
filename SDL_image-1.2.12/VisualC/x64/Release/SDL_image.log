@@ -1,0 +1,48 @@
+﻿  IMG.c
+  IMG_bmp.c
+  IMG_gif.c
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_gif.c(340,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+  IMG_jpg.c
+  IMG_lbm.c
+  IMG_pcx.c
+  IMG_png.c
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(266,54): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(269,34): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(269,34): warning C4028: 形参 2 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(270,42): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(270,42): warning C4028: 形参 2 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(271,38): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(272,34): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(272,34): warning C4028: 形参 2 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(273,34): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(273,34): warning C4028: 形参 2 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(274,36): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(274,36): warning C4028: 形参 2 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(275,38): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(276,36): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(276,36): warning C4028: 形参 2 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(277,50): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(277,50): warning C4028: 形参 2 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(278,38): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(279,48): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(280,40): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(281,40): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(282,42): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(285,46): warning C4028: 形参 1 与声明不同
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_png.c(332,2): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  IMG_pnm.c
+  IMG_tga.c
+  IMG_tif.c
+  IMG_webp.c
+  IMG_xcf.c
+  IMG_xpm.c
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_xpm.c(419,41): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_xpm.c(356,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+  IMG_xv.c
+C:\workspace\C\onscripter_win\SDL_image-1.2.12\IMG_xv.c(72,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+  IMG_xxx.c
+  正在生成代码...
+  SDL_image.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\SDL_image.lib

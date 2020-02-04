@@ -1,0 +1,32 @@
+﻿  dynamic_flac.c
+  dynamic_fluidsynth.c
+  dynamic_mod.c
+  dynamic_mp3.c
+  dynamic_ogg.c
+  effects_internal.c
+  effect_position.c
+  effect_stereoreverse.c
+  fluidsynth.c
+  load_aiff.c
+  load_flac.c
+  load_ogg.c
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\load_ogg.c(43,12): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  load_voc.c
+  mixer.c
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\mixer.c(129,40): warning C4090: “函数”: 不同的“const”限定符
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\mixer.c(1143,27): warning C4090: “函数”: 不同的“const”限定符
+  music.c
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\music.c(166,40): warning C4090: “函数”: 不同的“const”限定符
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\music.c(625,20): warning C4047: “return”:“Mix_Music *”与“int”的间接级别不同
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\music.c(1529,25): warning C4090: “函数”: 不同的“const”限定符
+  music_cmd.c
+  music_flac.c
+  music_mad.c
+  music_mod.c
+  music_ogg.c
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\music_ogg.c(56,12): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  wavestream.c
+  正在生成代码...
+  SDL_mixer.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\SDL_mixer.lib

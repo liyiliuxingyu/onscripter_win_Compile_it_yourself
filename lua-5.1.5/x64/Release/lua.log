@@ -1,0 +1,38 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+C:\workspace\C\onscripter_win\lua-5.1.5\src\lgc.c(288,56): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  lparser.c
+  正在编译...
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+C:\workspace\C\onscripter_win\lua-5.1.5\src\ltable.c(323,5): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\workspace\C\onscripter_win\lua-5.1.5\src\ltable.c(376,5): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  ltablib.c
+  ltm.c
+  lua.c
+  luac.c
+  lundump.c
+  lvm.c
+  lzio.c
+  print.c
+luac.obj : warning LNK4006: main 已在 luac.obj 中定义；已忽略第二个定义
+  lua.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\lua.lib

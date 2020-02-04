@@ -1,0 +1,10 @@
+﻿  SDL_ttf.c
+C:\workspace\C\onscripter_win\SDL_ttf-2.0.11\SDL_ttf.c(1061,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL_ttf-2.0.11\SDL_ttf.c(1085,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL_ttf-2.0.11\SDL_ttf.c(1248,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL_ttf-2.0.11\SDL_ttf.c(1275,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL_ttf-2.0.11\SDL_ttf.c(1507,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL_ttf-2.0.11\SDL_ttf.c(1534,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL_ttf-2.0.11\SDL_ttf.c(1780,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL_ttf-2.0.11\SDL_ttf.c(1807,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  SDL_ttf.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\SDL_ttf.lib

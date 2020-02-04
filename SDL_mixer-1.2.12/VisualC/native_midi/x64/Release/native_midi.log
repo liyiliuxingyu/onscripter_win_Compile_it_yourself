@@ -1,0 +1,4 @@
+﻿  native_midi_common.c
+  native_midi_win32.c
+  正在生成代码...
+  native_midi.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\native_midi.lib

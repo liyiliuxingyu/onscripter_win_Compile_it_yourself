@@ -1,0 +1,21 @@
+﻿  blocksort.c
+  bzlib.c
+C:\workspace\C\onscripter_win\bzip2-1.0.6\bzlib.c(997,40): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+C:\workspace\C\onscripter_win\bzip2-1.0.6\bzlib.c(1056,43): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+C:\workspace\C\onscripter_win\bzip2-1.0.6\bzlib.c(1191,50): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+C:\workspace\C\onscripter_win\bzip2-1.0.6\bzlib.c(1417,10): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C\onscripter_win\bzip2-1.0.6\bzlib.c(1418,10): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C\onscripter_win\bzip2-1.0.6\bzlib.c(1423,1): warning C4996: 'setmode': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _setmode. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(530): message : 参见“setmode”的声明
+C:\workspace\C\onscripter_win\bzip2-1.0.6\bzlib.c(1425,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\workspace\C\onscripter_win\bzip2-1.0.6\bzlib.c(1431,1): warning C4996: 'fdopen': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fdopen. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2457): message : 参见“fdopen”的声明
+  compress.c
+C:\workspace\C\onscripter_win\bzip2-1.0.6\compress.c(205,33): warning C4244: “=”: 从“__int64”转换到“Int32”，可能丢失数据
+  crctable.c
+  decompress.c
+  huffman.c
+  randtable.c
+  正在生成代码...
+  libbz2.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\libbz2.lib

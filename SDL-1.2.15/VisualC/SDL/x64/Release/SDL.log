@@ -1,0 +1,91 @@
+﻿  SDL_diskaudio.c
+  SDL_dummyaudio.c
+  SDL_audio.c
+  SDL_audiocvt.c
+  SDL_mixer.c
+  SDL_mixer_MMX_VC.c
+  SDL_wave.c
+  SDL_dibaudio.c
+  SDL_dx5audio.c
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\audio\windx5\SDL_dx5audio.c(69,1): warning C4996: 'GetVersionExA': 被声明为已否决
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(387): message : 参见“GetVersionExA”的声明
+  SDL_cdrom.c
+  SDL_syscdrom.c
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\cdrom\win32\SDL_syscdrom.c(174,41): warning C4244: “=”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\cdrom\win32\SDL_syscdrom.c(342,40): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+  SDL_cpuinfo.c
+  SDL_active.c
+  SDL_events.c
+  SDL_expose.c
+  SDL_keyboard.c
+  SDL_mouse.c
+  SDL_quit.c
+  SDL_resize.c
+  SDL_rwops.c
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\file\SDL_rwops.c(126,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\file\SDL_rwops.c(151,73): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\file\SDL_rwops.c(115,1): warning C4996: 'GetVersionExA': 被声明为已否决
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(387): message : 参见“GetVersionExA”的声明
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\file\SDL_rwops.c(340,15): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\file\SDL_rwops.c(350,16): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\file\SDL_rwops.c(392,59): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\file\SDL_rwops.c(412,29): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\file\SDL_rwops.c(417,65): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  SDL_joystick.c
+  SDL_mmjoystick.c
+  SDL_sysloadso.c
+  SDL.c
+  SDL_error.c
+  SDL_fatal.c
+  SDL_getenv.c
+  SDL_iconv.c
+  SDL_malloc.c
+  SDL_qsort.c
+  SDL_stdlib.c
+  SDL_string.c
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\stdlib\SDL_string.c(1246,30): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  SDL_syscond.c
+  SDL_thread.c
+  SDL_sysmutex.c
+  SDL_syssem.c
+  SDL_systhread.c
+  SDL_timer.c
+  SDL_systimer.c
+  SDL_nullevents.c
+  正在生成代码...
+  正在编译...
+  SDL_nullmouse.c
+  SDL_nullvideo.c
+  SDL_blit.c
+  SDL_blit_0.c
+  SDL_blit_1.c
+  SDL_blit_A.c
+  SDL_blit_N.c
+  SDL_bmp.c
+  SDL_cursor.c
+  SDL_gamma.c
+  SDL_pixels.c
+  SDL_RLEaccel.c
+  SDL_stretch.c
+  SDL_surface.c
+  SDL_video.c
+  SDL_yuv.c
+  SDL_yuv_sw.c
+  SDL_sysevents.c
+  SDL_sysmouse.c
+  SDL_syswm.c
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\video\wincommon\SDL_syswm.c(223,51): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  SDL_wingl.c
+  SDL_dibevents.c
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\video\windib\SDL_dibevents.c(598,59): warning C4244: “函数”: 从“WPARAM”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\SDL-1.2.15\src\video\windib\SDL_dibevents.c(615,45): warning C4244: “=”: 从“WPARAM”转换到“Uint16”，可能丢失数据
+  SDL_dibvideo.c
+  SDL_dx5events.c
+  SDL_dx5video.c
+  SDL_dx5yuv.c
+  正在生成代码...
+  SDL.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\SDL.lib

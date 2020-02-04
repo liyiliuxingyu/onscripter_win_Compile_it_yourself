@@ -1,0 +1,126 @@
+﻿  bitwindow.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  filter.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  filter_2.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  huffmantable.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  MPEGaudio.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  mpeglayer1.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  mpeglayer2.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  mpeglayer3.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  mpegtable.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  mpegtoraw.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  MPEG.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEG.cpp(43,1): warning C4996: 'fdopen': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fdopen. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2457): message : 参见“fdopen”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEG.cpp(46,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+  MPEGlist.cpp
+  MPEGring.cpp
+  MPEGstream.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGstream.cpp(251,24): warning C4244: “=”: 从“__int64”转换到“Uint32”，可能丢失数据
+  MPEGsystem.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(507,39): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(613,58): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(615,68): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(624,68): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(660,99): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(671,94): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(680,98): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(691,96): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(746,75): warning C4244: “=”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(747,33): warning C4244: “=”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(921,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(932,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(943,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1000,48): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1067,52): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1070,49): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(969,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(990,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1033,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1082,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1143,48): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1113,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1133,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1176,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1205,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1309,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : 参见“strerror”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1421,58): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1422,52): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1443,106): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGsystem.cpp(1444,101): warning C4244: “参数”: 从“__int64”转换到“Uint32”，可能丢失数据
+  smpeg.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\smpeg.cpp(124,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+  decoders.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  floatdct.cpp
+  gdith.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  jrevdct.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  正在生成代码...
+  正在编译...
+  motionvector.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  MPEGvideo.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  parseblock.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  readfile.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  util.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  video.cpp
+C:\workspace\C\onscripter_win\smpeg-debian-0.4.5+cvs20030824-8\MPEGerror.h(39,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+  正在生成代码...
+  MPEGfilter.c
+  smpeg.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\smpeg.lib

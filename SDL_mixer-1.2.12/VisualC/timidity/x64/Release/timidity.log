@@ -1,0 +1,17 @@
+﻿  common.c
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\timidity\common.c(139,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ctrlmode.c
+  filter.c
+  instrum.c
+C:\workspace\C\onscripter_win\SDL_mixer-1.2.12\timidity\instrum.c(558,7): warning C4244: “=”: 从“uint16”转换到“uint8”，可能丢失数据
+  mix.c
+  output.c
+  playmidi.c
+  readmidi.c
+  resample.c
+  sdl_a.c
+  sdl_c.c
+  tables.c
+  timidity.c
+  正在生成代码...
+  timidity.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\timidity.lib

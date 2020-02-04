@@ -1,0 +1,23 @@
+﻿  vorbisfile.c
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(71,1): warning C4267: “初始化”: 从“size_t”转换到“long”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(258,42): warning C4244: “函数”: 从“ogg_int64_t”转换到“long”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(272,27): warning C4244: “=”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(544,25): warning C4244: “return”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(565,23): warning C4244: “return”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(568,23): warning C4244: “return”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(578,23): warning C4244: “return”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(640,23): warning C4244: “return”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(873,21): warning C4244: “函数”: 从“ogg_int64_t”转换到“long”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(1011,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(1117,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(1118,21): warning C4244: “return”: 从“double”转换到“long”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(1122,80): warning C4244: “return”: 从“double”转换到“long”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(1150,54): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(1763,39): warning C4244: “=”: 从“ogg_int64_t”转换到“long”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(1800,1): warning C4244: “初始化”: 从“double”转换到“ogg_int64_t”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(1830,1): warning C4244: “初始化”: 从“double”转换到“ogg_int64_t”，可能丢失数据
+C:\workspace\C\onscripter_win\libvorbis-1.3.6\lib\vorbisfile.c(2166,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1455,5): warning MSB8012: TargetPath(C:\workspace\C\onscripter_win\x64\Release\libvorbisfile.lib) does not match the Library's OutputFile property value (C:\workspace\C\onscripter_win\x64\Release\libvorbisfile_static.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1457,5): warning MSB8012: TargetName(libvorbisfile) does not match the Library's OutputFile property value (libvorbisfile_static). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  libvorbisfile_static.vcxproj -> C:\workspace\C\onscripter_win\x64\Release\libvorbisfile.lib
